@@ -7,7 +7,7 @@
           <h4>Check Weather Forecast For Other Cities</h4>
         </div>
       </div>
-      <div class="row mt-2 text-light mb-4  text-center bg-dark py-3">
+      <div class="row mt-2 text-light mb-4  text-center bg-dark py-3 mx-auto justify-content-center">
         <div class="col-2 city" @click="cityWeather('lagos')">Lagos</div>
         <div class="col-2 city" @click="cityWeather('abuja')">Abuja</div>
         <div class="col-2 city" @click="cityWeather('london')">London</div>
